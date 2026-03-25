@@ -1,4 +1,4 @@
-day 3
+
 ## Breadboard
 - Columns are connected, rows are not
 - Power rails (+ and -) run along the sides
@@ -8,3 +8,9 @@ day 3
 - Long leg = positive = connects to resistor
 - Short leg = negative = connects to GND
 - Always use 220 ohm resistor
+
+- ## Variables in Arduino
+- Declare variables at the top of code
+- Makes modification easier
+- Use comments to differentiate code blocks
+- Comments use // before the line
