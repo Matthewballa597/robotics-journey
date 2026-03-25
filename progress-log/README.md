@@ -30,7 +30,7 @@ This folder contains my weekly progress updates and growth tracking.
 
 -Time spent: 1 hour 30 minutes
 
-## DAY 4 - 24th March 2026
+## DAY 4 - 25th March 2026
 -Date: 25th March 2026 
 What I studied: Variables, code reuse, comments
 
