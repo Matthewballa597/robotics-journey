@@ -33,10 +33,10 @@ Environment setup complete. Starting Arduino basics today.
 - Simulation issue - to be debugged tomorrow
 - Time spent: 40 minutes + Tinkercad session
   ## Day 3 - 24th March 2026
-What I studied: Breadboard connections, LED circuit 
-wiring, Arduino pin control
-What I built: 3 LED circuit with independent blink 
-control on Tinkercad
-Problems I faced: Single GND pin for 3 LEDs — 
-solved using breadboard column as common ground
-Time spent: 1 hour 30 minutes
+-What I studied: Breadboard connections, LED circuit 
+ wiring, Arduino pin control
+-What I built: 3 LED circuit with independent blink 
+ control on Tinkercad
+-Problems I faced: Single GND pin for 3 LEDs — 
+ solved using breadboard column as common ground
+-Time spent: 1 hour 30 minutes
