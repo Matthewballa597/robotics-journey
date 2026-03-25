@@ -40,3 +40,20 @@ Environment setup complete. Starting Arduino basics today.
 -Problems I faced: Single GND pin for 3 LEDs — 
  solved using breadboard column as common ground
 -Time spent: 1 hour 30 minutes
+
+## DAY 4 - 24th March 2026
+-Date: 25th March 2026 
+What I studied: Variables, code reuse, comments
+
+What I built: 3 LED controller - red blinks 5x fast,
+
+blue 10x slower, yellow 15x slowest. 
+
+Variables declared at top for easy modification.
+
+
+Problems I faced: Managing multiple similar code blocks
+
+Solution: Used comments to differentiate blocks
+
+Time spent: 2 hours
