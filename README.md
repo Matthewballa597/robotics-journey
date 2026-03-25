@@ -23,5 +23,5 @@ To become a world class robotics engineer, one project at a time.
 - Documenting everything publicly
 
 ## Connect With Me
-- LinkedIn: your linkedin URL here
-- GitHub: github.com/yourusername
+- LinkedIn: linkedin.com/in/matthew-balla-a160a03ba
+- GitHub: github.com/Matthewballa597/robotics-journey
