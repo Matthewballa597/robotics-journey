@@ -46,3 +46,12 @@ Problems I faced: Managing multiple similar code blocks
 Solution: Used comments to differentiate blocks
 
 Time spent: 2 hours
+
+
+## Day 5 - 27th March 2026
+- Studied binary numbers and how they work in microprocessors
+- Learned decimal to binary and binary to decimal conversion
+- Built binary LED counter displaying numbers 1-15
+- ON = 1, OFF = 0
+- No major problems faced
+- Time spent: 1 hour
