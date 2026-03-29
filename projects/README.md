@@ -10,7 +10,9 @@
 - Variables declared at top for easy modification
 - Used comments to organize code blocks
 
-- ## Project 3 - Binary LED Counter
+  
+## Project 3 - 4 Bit Binary LED Counter
 - Status: Complete
-- Displays binary numbers 1-15 using LEDs
+- 4 LEDs display binary form of number 0 to 15
 - ON represents 1, OFF represents 0
+- Debugged semicolon errors independently
