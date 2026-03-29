@@ -40,3 +40,24 @@
 - LED ON = 1, LED OFF = 0
 - Multiple LEDs can display binary numbers
 - Used binary counter to display numbers 1-15
+
+## 4-Bit Binary LED Display
+- 4 LEDs can represent 4 bits of binary
+- Counts from 0000 to 1111 (0 to 15 in decimal)
+- Each LED represents a power of 2
+- LED 1 = 2^0 = 1
+- LED 2 = 2^1 = 2
+- LED 3 = 2^2 = 4
+- LED 4 = 2^3 = 8
+
+## Clean Breadboard Practices
+- Keep wires short and tidy
+- Use different colors for different connections
+- Positive wires = red, Ground wires = black
+- Keep components organized and labeled
+
+## Debugging
+- Always check semicolons at end of every line
+- Read error messages carefully
+- Fix one error at a time
+- Test after every fix
