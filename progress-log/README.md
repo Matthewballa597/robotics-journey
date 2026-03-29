@@ -55,3 +55,10 @@ Time spent: 2 hours
 - ON = 1, OFF = 0
 - No major problems faced
 - Time spent: 1 hour
+
+
+## Day 6 - 29th March 2026
+- Built 4 LED binary counter displaying 0 to 15
+- Practiced cleaner breadboard circuit building
+- Debugged missing semicolon errors independently
+- Time spent: 2 hours
