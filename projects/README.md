@@ -16,3 +16,10 @@
 - 4 LEDs display binary form of number 0 to 15
 - ON represents 1, OFF represents 0
 - Debugged semicolon errors independently
+
+
+## Project 4 - LED Fade Circuit
+- Status: Complete
+- Used analogWrite to vary LED brightness
+- Light fades from bright to dim and back
+- First use of analog output on Arduino
