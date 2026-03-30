@@ -56,6 +56,14 @@ Time spent: 2 hours
 - No major problems faced
 - Time spent: 1 hour
 
+- ## Day 7 - 30th March 2026
+- Studied analogWrite vs digitalWrite in Arduino
+- Learned how to vary voltage between 0 and 255
+- 255 = 5 volts, 0 = 0 volts
+- Built LED fade circuit - light dims and brightens
+- Problem: Fixing pins on breadboard correctly
+- Time spent: 1 hour
+
 
 ## Day 6 - 29th March 2026
 - Built 4 LED binary counter displaying 0 to 15
