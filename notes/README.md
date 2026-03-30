@@ -61,3 +61,11 @@
 - Read error messages carefully
 - Fix one error at a time
 - Test after every fix
+
+## analogWrite vs digitalWrite
+- digitalWrite = only HIGH or LOW (0v or 5v)
+- analogWrite = varies between 0 and 255
+- 0 = 0 volts, 255 = 5 volts
+- Use analogWrite for fading, dimming, motor speed
+- Only works on PWM pins on Arduino (marked with ~)
+- Essential for smooth robot movement control
