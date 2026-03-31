@@ -69,3 +69,13 @@
 - Use analogWrite for fading, dimming, motor speed
 - Only works on PWM pins on Arduino (marked with ~)
 - Essential for smooth robot movement control
+
+- ## Pulse Width Modulation (PWM)
+- PWM varies voltage by switching HIGH and LOW rapidly
+- The ratio of HIGH to LOW time determines average voltage
+- High duty cycle = higher average voltage
+- Low duty cycle = lower average voltage
+- Capacitor can be used to smooth PWM into steady voltage
+- Arduino uses PWM on pins marked with ~ symbol
+- analogWrite uses PWM to simulate analog voltage
+- Used in motor control, LED dimming, servo control
