@@ -23,3 +23,9 @@
 - Used analogWrite to vary LED brightness
 - Light fades from bright to dim and back
 - First use of analog output on Arduino
+
+## Project 5 - LED Breathing Circuit
+- Status: Complete
+- Used for loops with analogWrite to fade LED 0 to 255
+- LED smoothly brightens and dims continuously
+- Debugged code independently
