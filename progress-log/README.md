@@ -70,3 +70,20 @@ Time spent: 2 hours
 - Built LED fade circuit - light dims and brightens
 - Problem: Fixing pins on breadboard correctly
 - Time spent: 1 hour
+
+# Week 2 - Started 31st March 2026
+
+### Goal This Week
+- Go deeper into Arduino programming
+- Start working with sensors
+- Build first physical circuit on real hardware
+- Understand PWM, loops and input/output fully
+
+## Day 8 - 31st March 2026
+- Studied Pulse Width Modulation (PWM)
+- Learned how analogWrite varies voltage by switching 
+  high and low at different intervals
+- Learned how capacitors smooth voltage output
+- Built LED breathing circuit using for loops and analogWrite
+- Debugged code independently
+- Time spent: 1 hour 40 minutes
