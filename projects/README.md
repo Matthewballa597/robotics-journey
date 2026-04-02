@@ -29,3 +29,9 @@
 - Used for loops with analogWrite to fade LED 0 to 255
 - LED smoothly brightens and dims continuously
 - Debugged code independently
+
+## Project 6 - Ohm's Law LED Circuit
+- Status: Complete
+- 3 LEDs each with calculated resistor values
+- Applied Ohm's Law to real circuit design
+- Used standard resistor values correctly
