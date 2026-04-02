@@ -87,3 +87,11 @@ Time spent: 2 hours
 - Built LED breathing circuit using for loops and analogWrite
 - Debugged code independently
 - Time spent: 1 hour 40 minutes
+
+
+## Day 9 - 2nd April 2026
+- Studied Ohm's Law V = IR
+- Calculated resistor values for different currents
+- Built 3 LED circuit with different resistor values
+- Learned to always round UP resistor values
+- Time spent: 2 hours+
