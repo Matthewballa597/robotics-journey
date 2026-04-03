@@ -79,3 +79,17 @@
 - Arduino uses PWM on pins marked with ~ symbol
 - analogWrite uses PWM to simulate analog voltage
 - Used in motor control, LED dimming, servo control
+
+- ## analogRead & ADC Conversion
+- analogRead returns values from 0 to 1023
+- Arduino uses 10-bit ADC (2^10 = 1024 values)
+- 0 = 0V, 1023 = 5V
+- Conversion formula: Voltage = (analogRead / 1023.0) * 5.0
+- Use Serial Monitor to display output values
+- Serial.begin(9600) in setup()
+- Serial.println(value) in loop()
+
+## Voltage Divider
+- Two resistors in series divide voltage proportionally
+- V1/V2 = R1/R2
+- Used to read and scale voltages in circuits
