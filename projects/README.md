@@ -35,3 +35,9 @@
 - 3 LEDs each with calculated resistor values
 - Applied Ohm's Law to real circuit design
 - Used standard resistor values correctly
+
+## Project 7 - Voltage Reader Circuit
+- Status: Complete
+- Read voltages across 300ohm and 100ohm resistors
+- Used analogRead and Serial Monitor
+- Solved ADC 0-1023 to 0-5V conversion independently
