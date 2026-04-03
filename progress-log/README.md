@@ -95,3 +95,12 @@ Time spent: 2 hours
 - Built 3 LED circuit with different resistor values
 - Learned to always round UP resistor values
 - Time spent: 2 hours+
+
+## Day 10 - 3rd April 2026
+- Studied analogRead and Serial Monitor
+- Learned how to read voltages from circuits using Arduino
+- Built voltage divider circuit with 300ohm and 100ohm resistors
+- Read voltage across each resistor and combined
+- Solved ADC conversion problem - mapped 1023 to 5V
+- Formula: Voltage = (analogRead / 1023.0) * 5.0
+- Time spent: 2 hours
